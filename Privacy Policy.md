@@ -1,0 +1,9 @@
+This extension does not collect, store, or transmit any user data.
+
+All processing is performed locally within the user's browser. The extension only reads the content of the ChatGPT webpage in order to provide in-page navigation functionality.
+
+No personal information, chat content, or browsing data is sent to any external servers.
+
+The extension does not use analytics, tracking, or third-party services.
+
+If you have any questions, please contact: [markone_support@163.com]
